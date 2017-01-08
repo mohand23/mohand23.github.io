@@ -76,15 +76,15 @@ Navigation bar
 }
 
 .btn-trial a{
-	background-color: #5FCF80;
+	background-color: #f90a2d;
 	border-radius: 25px;
 	color: #ffffff !important;
-	border: 1px solid #5FCF80;
+	border: 1px solid #ec1313;
 }
 .btn-trial a:hover, .btn-trial a:focus{
-	border: 1px solid #5FCF80;
+	border: 1px solid #ec1313;
 	background-color: #fff;
-	color: #5FCF80 !important;
+	color: #ef1027 !important;
 }
 .navbar-default .navbar-brand {
     font-family: 'Dosis', sans-serif !important;
